@@ -1,1 +1,1 @@
-#created a phone book in solidity in which we can store phone numbers of people along with their name and updated their number if needed
+A simple smart contract in Solidity that acts as a decentralized phone book. It allows users to add, update, and retrieve phone numbers based on a person's name.
